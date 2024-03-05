@@ -1,1 +1,1 @@
-# DBMS Online Retail Store Project
+# DBMS - Online retail store
