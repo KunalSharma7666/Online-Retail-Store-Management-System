@@ -1,1 +1,3 @@
-# DBMS - Online retail store
+# DBMS - Online retail store management
+Build an online retail store management system that could streamline the smooth buying and processing of customer demands and improve the experience for both parties. This system helps the administrator to systematise inventory which can help them to maintain stock and a gateway for the users to navigate and explore the product range offered by the company.
+Customers can shop for products, add them to their cart, and then checkout. The cart value and delivery speed would be displayed to the customer according to their privilege status. This management system also provides a facility to redeem loyalty coupons, keep track of them, and avail of great discounts.
